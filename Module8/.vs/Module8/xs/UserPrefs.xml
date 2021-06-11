@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{E1C0FFAA-15FA-46F0-9054-3765E44EBD7C}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Module8/Program.cs">
     <Files>
-      <File FileName="Module8/Program.cs" Line="9" Column="13" />
+      <File FileName="Module8/Program.cs" Line="15" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -21,5 +21,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Module8 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Module8 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
