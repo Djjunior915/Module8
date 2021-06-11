@@ -1,0 +1,12 @@
+/Users/rafaelhernandez/Desktop/Module8/Module8/Module8/bin/Debug/netcoreapp3.1/Module8.deps.json
+/Users/rafaelhernandez/Desktop/Module8/Module8/Module8/bin/Debug/netcoreapp3.1/Module8.runtimeconfig.json
+/Users/rafaelhernandez/Desktop/Module8/Module8/Module8/bin/Debug/netcoreapp3.1/Module8.runtimeconfig.dev.json
+/Users/rafaelhernandez/Desktop/Module8/Module8/Module8/bin/Debug/netcoreapp3.1/Module8.dll
+/Users/rafaelhernandez/Desktop/Module8/Module8/Module8/bin/Debug/netcoreapp3.1/Module8.pdb
+/Users/rafaelhernandez/Desktop/Module8/Module8/Module8/obj/Debug/netcoreapp3.1/Module8.csprojAssemblyReference.cache
+/Users/rafaelhernandez/Desktop/Module8/Module8/Module8/obj/Debug/netcoreapp3.1/Module8.AssemblyInfoInputs.cache
+/Users/rafaelhernandez/Desktop/Module8/Module8/Module8/obj/Debug/netcoreapp3.1/Module8.AssemblyInfo.cs
+/Users/rafaelhernandez/Desktop/Module8/Module8/Module8/obj/Debug/netcoreapp3.1/Module8.csproj.CoreCompileInputs.cache
+/Users/rafaelhernandez/Desktop/Module8/Module8/Module8/obj/Debug/netcoreapp3.1/Module8.dll
+/Users/rafaelhernandez/Desktop/Module8/Module8/Module8/obj/Debug/netcoreapp3.1/Module8.pdb
+/Users/rafaelhernandez/Desktop/Module8/Module8/Module8/obj/Debug/netcoreapp3.1/Module8.genruntimeconfig.cache
